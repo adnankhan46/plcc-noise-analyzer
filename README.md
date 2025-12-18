@@ -5,6 +5,9 @@
 **Domain:** Power Line Carrier Communication (PLCC)
 
 ---
+<img width="1765" height="892" alt="Screenshot 2025-09-15 182126" src="https://github.com/user-attachments/assets/aa025e16-e5f3-43a5-8eb5-d888e21ec901" />
+
+<img width="1901" height="940" alt="Screenshot 2025-09-15 182035" src="https://github.com/user-attachments/assets/ec80a31e-1829-4322-88c4-a09154bf7f08" />
 
 ## 1. Introduction
 Power Line Carrier Communication (PLCC) is a widely used technique for communication in power systems. It allows transmission of high-frequency communication signals over the same power lines that carry electrical energy, thus eliminating the need for dedicated cables.
