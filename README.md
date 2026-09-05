@@ -120,8 +120,23 @@ Prerequisite:
  - matplotlib
  - streamlit
 
-RUN : 
+RUN :
+### Package with venv (optional)
+```
+python -m venv .venv  // init venv
+.\.venv\Scripts\Activate.ps1  // activate venv
+
+// install
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+
+// run
+python -m streamlit run app.py
+``` 
 ```
 python simulation.py
 streamlit run app.py
+
+// or
+python -m streamlit run app.py
 ```
